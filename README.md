@@ -14,4 +14,4 @@ Responsive design for mobile and desktop
 # screenshots 
 -home page
  ![home](./screenshot/home.png)
- ![home](./screenshot/home(2).png)
+ ![home](./screenshot/home (2).png)
